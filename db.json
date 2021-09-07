@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Medical Appointment - Deltek",
+      "day": "September 14, 2021 12:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Supermarket Day",
+      "day": "April 1, 2021 10:30am",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Mr. Robot Netflix",
+      "day": "Every night 7:00pm",
+      "reminder": false
+    }
+  ]
+}
